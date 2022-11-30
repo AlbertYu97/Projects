@@ -1,5 +1,6 @@
 # Projects
 I work on projects to solidify my understanding and improve my coding skills.  Please feel free to borrow my codes or give me any feedback. 
+You can contact me at changmiaoyu1997@gmail.com.
 
 Number Guessing Game:
 Allow the player to submit a guess for a number between 1 and 100.
