@@ -9,6 +9,7 @@ A check mark will be displayed on the screen once each mini-study session is com
 
 ## Dependencies:
 1 Python v3.8 is required.
+
 2 tkinter, time and math packags are required.
 
 ## Contact
