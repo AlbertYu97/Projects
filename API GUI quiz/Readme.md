@@ -14,4 +14,4 @@ This is a GUI quiz that gets 10 randoms questions from API. Player can answer th
 ## Contact
 Albert Yu https://www.linkedin.com/in/albert-changmiao-yu/
 
-Project Link: [https://github.com/Illbedatascientist/Projects/tree/main/Turtle%20Crossing](https://github.com/Illbedatascientist/Projects/tree/main/API%20GUI%20quiz)
+Project Link: https://github.com/Illbedatascientist/Projects/tree/main/API%20GUI%20quiz
