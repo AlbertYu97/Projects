@@ -9,7 +9,8 @@ This is a GUI quiz that gets 10 randoms questions from API. Player can answer th
 
 ## Dependencies:
 1 Python v3.8 is required.
-2 tkinter, html and requests packages are required
+
+2 tkinter, html and requests packages are required.
 
 ## Contact
 Albert Yu https://www.linkedin.com/in/albert-changmiao-yu/
